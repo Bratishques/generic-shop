@@ -1,0 +1,23 @@
+
+.header {
+  width: 100%;
+  background-color: #1DC9FF;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.list-point {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.list {
+  padding-top: 20px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
