@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/generic-shop/static/css/main.30993a25.chunk.css",
+    "main.js": "/generic-shop/static/js/main.b619f196.chunk.js",
+    "main.js.map": "/generic-shop/static/js/main.b619f196.chunk.js.map",
+    "runtime-main.js": "/generic-shop/static/js/runtime-main.ff045ff1.js",
+    "runtime-main.js.map": "/generic-shop/static/js/runtime-main.ff045ff1.js.map",
+    "static/js/2.dd916b8d.chunk.js": "/generic-shop/static/js/2.dd916b8d.chunk.js",
+    "static/js/2.dd916b8d.chunk.js.map": "/generic-shop/static/js/2.dd916b8d.chunk.js.map",
+    "index.html": "/generic-shop/index.html",
+    "precache-manifest.cf2afd0a1b40dc9d26ba2d0bc143722c.js": "/generic-shop/precache-manifest.cf2afd0a1b40dc9d26ba2d0bc143722c.js",
+    "service-worker.js": "/generic-shop/service-worker.js",
+    "static/css/main.30993a25.chunk.css.map": "/generic-shop/static/css/main.30993a25.chunk.css.map",
+    "static/js/2.dd916b8d.chunk.js.LICENSE.txt": "/generic-shop/static/js/2.dd916b8d.chunk.js.LICENSE.txt",
+    "static/media/bath.png": "/generic-shop/static/media/bath.11084818.png",
+    "static/media/gel.png": "/generic-shop/static/media/gel.8af0064d.png",
+    "static/media/minus.svg": "/generic-shop/static/media/minus.2537f658.svg",
+    "static/media/plus.svg": "/generic-shop/static/media/plus.fb8228d2.svg",
+    "static/media/soap.png": "/generic-shop/static/media/soap.a4b4fc5c.png",
+    "static/media/trash.svg": "/generic-shop/static/media/trash.97bae268.svg",
+    "static/media/whiteminus.svg": "/generic-shop/static/media/whiteminus.d3c19c45.svg",
+    "static/media/whiteplus.svg": "/generic-shop/static/media/whiteplus.67d33532.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff045ff1.js",
+    "static/js/2.dd916b8d.chunk.js",
+    "static/css/main.30993a25.chunk.css",
+    "static/js/main.b619f196.chunk.js"
+  ]
+}
