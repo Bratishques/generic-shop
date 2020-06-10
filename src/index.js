@@ -33,14 +33,11 @@ store.subscribe(() => {
   saveState(store.getState())
 })
 ReactDOM.render(
-  <React.StrictMode>
     <Provider store={store}>
     <App />
     <Route exact path = "/" component ={IndexPage}/>
     <Route exact path= "/cart" component = {Cart}/>
-    </Provider>
-    
-  </React.StrictMode>,
+    </Provider>,
   document.getElementById('root')
 );
 
